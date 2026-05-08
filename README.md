@@ -1,4 +1,4 @@
-# yy487
+# 瑜瑜
 
 视觉小说 / Galgame 补丁作者。  
 Active visual novel / Galgame patch author.
